@@ -1,10 +1,10 @@
 #### Information 
 
-* T/Th 4-5:30PM   
-  501 Northwest Corner    
+* T/Th 8:30-10AM
+  Location TBD  
   3 units
 * [Syllabus](./syllabus)
-* [Piazza](https://piazza.com/columbia/fall2018/databasesw4111)
+* [Piazza](piazza.com/columbia/spring2019/databasesw4111/)
 * [Provide Feedback](https://goo.gl/forms/QIfWsPnwu3YHtamk1)
 * [Course Github](http://github.com/w4111)
 * [Scribe Notes](https://github.com/w4111/scribenotes/wiki)    
@@ -14,24 +14,13 @@
 
 * [Eugene Wu](http://www.eugenewu.net) <small>Instructor</small>   
   <small>Tues 5:30 in 421 Mudd</small>
-* Felipe Rocha <small>IA</small> <small>([email](mailto:felipe.rocha@columbia.edu))</small><br>
-  <small>Wed 2:00-4:00 in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
-* Amita Shukla <small>IA</small>   
-  <small>Thurs 1:30-4 in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
-* Amit Bhat <small>IA</small>   
-  <small>Tue 11:30-1:30 in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
-* Ivy Chen <small>IA</small>   
-  <small>Mon 2:30-4:30 in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
-* Zhijian <small>(Chih-Chi’an)</small> Jiang <small>IA</small>   
-  <small>Tue 2:00-4:00 in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
-* Mayank Saxena <small>IA</small>   
-  <small>Fri 3:00-5:00 in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
+* TBA <small>IA</small> <small>([email](#))</small><br>
+  <small> in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
 
 #### Prereqs
 
 * Required: Students are expected to be comfortable with data structures and Python.
 * Required: COMS W3134, COMS W3137, or COMS W3136  
-
 
 #### Grading
 
