@@ -14,8 +14,8 @@ The goal of this class is two-fold. First, to introduce you to core database con
 <table class="table table-striped schedule">
   <thead>
   <tr>
-    <th class="idx"></th>
-    <th class="date" style="width: 4em; max-width: 4em;"> <p> <span>Date </span> </p> </th>
+    <!--<th class="idx"></th>-->
+    <th class="date" style="width: 5em; max-width: 5em;"> <p> <span>Date </span> </p> </th>
     <th style="min-width: 20%;"> <p> <span>Topic </span> </p> </th>
     <!--<th style="width: 15%"> <p> <span>Readings </span> </p> </th>-->
     <th style="width: 25%;"> <p> <span>Assigned</span> </p> </th>
@@ -27,15 +27,18 @@ The goal of this class is two-fold. First, to introduce you to core database con
 {% for r in site.data.schedule %}
   {% assign idx = idx | plus: 1  %}
   <tr style="background-color: {{r.color}}; ">
-    <td class="idx">L{{idx}}</td>
+    <!--<td class="idx">L{{idx}}</td>-->
     <td class="date">{{r.date}}</td>
     <td class="slug">
       {% if r.lshow == "1" %} <a href="{{r.link}}"> {% endif %}
         {{r.slug}}
       {% if r.lshow == "1" %} </a> {% endif %}
-      <br/>{{r.title}}
-      {% if r.optional %}<br/>{% endif%}
-      {{r.optional | safe}}
+      {%if r.title %}: {{r.title}}{% endif %}
+      {% if r.optional %}<br/>{{r.optional | safe}}{% endif%}
+      
+      {% if r.readings %}
+        <br/>optional: Textbook {{r.readings | safe}}
+      {% endif %}
       </td>
     <!--<td class="readings">{{r.readings | safe}}</td>-->
     <td>{% if 1 or r.ashow == "1" %} {{r.assigned | safe}} {% endif %}</td>

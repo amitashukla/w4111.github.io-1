@@ -21,6 +21,7 @@ Course website: [http://w4111.github.io/](http://w4111.github.io/)
 #### Textbook
 
 *  (Not Required) Database Management Systems 3rd Edition by Ramakrishnan and Gehrke. 
+  * We include the relevant chapters in the schedule in case you want to read more.
 
 
 #### Prerequisites
