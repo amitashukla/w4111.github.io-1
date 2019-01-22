@@ -1,6 +1,6 @@
 color,date,slug,title,lshow,link,readings,optional,assigned,ashow,due,dshow
 white,22-Jan,Intro,,,,Chapter 1,,"<a href=""https://github.com/w4111/hw0"">HW 0</a>",1,,
-#e7f8ff,24-Jan,Entity-Relationship Modeling,ER Modeling,,,Chapter 2,,"<a href=""https://github.com/w4111/hw1"">HW 1</a><br/><a href=""https://github.com/w4111/project1"">Project 1 Part 1.</a> <br/>LOOK FOR TEAMMATE",,"HW 0 Fri 1/25 10AM<br/>You will receive a 0 in this class if HW0 not completed on time -- no exceptions<br/><br/><a href=""https://goo.gl/forms/CknYEVX8zqY20gAC3"">Deadline to sign up for proj1 matching system</a> 1/25 10AM est",1
+#e7f8ff,24-Jan,Entity-Relationship Modeling,ER Modeling,,,Chapter 2,,"<a href=""https://github.com/w4111/hw1"">HW 1</a><br/><a href=""https://github.com/w4111/project1"">Project 1 Part 1.</a> <br/>LOOK FOR TEAMMATE",,"HW 0 Fri 1/25 10AM<br/>You will receive a 0 in this class if HW0 not completed on time -- no exceptions<br/><br/><a href=""https://goo.gl/forms/nlcC9CGvutj1FcnS2"">Deadline to sign up for proj1 matching system</a> 1/25 10AM est",1
 #e7f8ff,29-Jan,Entity-Relationship Modeling + Nonrelational Models,"More constraints, using ER models",,,Chapter 2,,,,,
 #e7f8ff,31-Jan,Relational Model,Dawn before time: non relational models.,,,Chapter 3,"optional: <a href=""./reading/goesaroundcomesaround.pdf"">What goes around comes around</a><br/>optional: <a href=""https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/"">NoSQL data modeling techniques</a>","<a href=""https://github.com/w4111/advanced/"">AA1</a>",,Formed team for Project 1 (no deliverable)<br/><br/>HW 1 Part 1 (ER diagram) 10AM (digital copy),
 #e7f8ff,5-Feb,Relational Model,ER and Relational Review.,,,Chapter 3,"optional: <a href=""./reading/goesaroundcomesaround.pdf"">What goes around comes around</a>",,,Project 1 Part 1 approval phase ,
@@ -27,4 +27,3 @@ white,23-Apr,Transaction Processing,Recovery,,,,,,,HW 4 2:30PM,
 white,25-Apr,Review,,,,,,,,,
 white,30-Apr,Exam 2 (Cumulative): Closed Book,1 page cheat sheet both sides,,,,,,,,
 white,2-May,No lecture,,,,,,,,AA4 10AM<br/>Project 2 10AM,
-,,,,,,,,,,,
