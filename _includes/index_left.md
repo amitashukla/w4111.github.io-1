@@ -14,8 +14,16 @@
 
 * [Eugene Wu](http://www.eugenewu.net) <small>Instructor</small>   
   <small>Tues 5:30 in 421 Mudd</small>
-* TBA <small>IA</small> <small>([email](#))</small><br>
+* Amita Shukla <small>IA</small> <small>([email](mailto:ajs2349@columbia.edu))</small><br>
   <small> in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
+* Yiru Chen <small>IA</small> <small>([email](mailto:yiru.chen@columbia.edu))</small><br>
+  <small> in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
+* Zhicheng Wu <small>IA</small> <small>([email](mailto:zw2497@columbia.edu))</small><br>
+  <small> in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
+* Ziao Wang <small>IA</small> <small>([email](mailto:zw2498@columbia.edu))</small><br>
+  <small> in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
+
+
 
 #### Prereqs
 
