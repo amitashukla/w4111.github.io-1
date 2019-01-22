@@ -1,7 +1,7 @@
 #### Information 
 
-* T/Th 8:30-10AM
-  Location TBD  
+* T/Th 8:30-10AM    
+  209 Havemeyer Hall    
   3 units
 * [Syllabus](./syllabus)
 * [Piazza](https://piazza.com/columbia/spring2019/databasesw4111/)
@@ -13,7 +13,7 @@
 
 
 * [Eugene Wu](http://www.eugenewu.net) <small>Instructor</small>   
-  <small>Tues 5:30 in 421 Mudd</small>
+  <small>Thurs 3-4PM in 421 Mudd</small>
 * Amita Shukla <small>IA</small> <small>([email](mailto:ajs2349@columbia.edu))</small><br>
   <small> in [TA room](https://ia.cs.columbia.edu/tamap.shtml)</small>
 * Yiru Chen <small>IA</small> <small>([email](mailto:yiru.chen@columbia.edu))</small><br>
