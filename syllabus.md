@@ -87,7 +87,7 @@ Grading Policy
 * Midterm 1 <small>25%</small>
 * Midterm 2 <small>40%</small>
 * Scribe Notes  <small>[Extra Credit](#ec)</small>
-* [Advanced Assignments](https://github.com/w4111/advanced)  <small>[Extra Credit](#ec)</small>
+* [Advanced Assignments](https://github.com/w4111/advanced-public)  <small>[Extra Credit](#ec)</small>
 
 Notes on grading (please read):
 <a name="cheating"></a>
@@ -116,7 +116,7 @@ Due to the additional work that the staff must take to assess and manage extra c
 ##### Extra Credit Opportunities
 
 * [Improve the scribe notes wiki](https://github.com/w4111/scribenotes/wiki)
-* Do [Advanced Assignments](https://github.com/w4111/advanced)
+* Do [Advanced Assignments](https://github.com/w4111/advanced-public)
 
 
 #### Late Days

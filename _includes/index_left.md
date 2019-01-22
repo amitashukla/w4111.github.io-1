@@ -44,6 +44,6 @@
 * Midterm 2 <small>40%</small>
 * [Scribe Notes](https://github.com/w4111/scribenotes/wiki)    
   <small>[Extra Credit](./syllabus#ec)</small>
-* [Advanced Assignments](https://github.com/w4111/advanced)  
+* [Advanced Assignments](https://github.com/w4111/advanced-public)  
   <small>[Extra Credit](./syllabus#ec)</small>
 
