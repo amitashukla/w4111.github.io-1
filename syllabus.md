@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## W4111 Fall 2018 Syllabus (Section 002)
+## W4111 Syllabus 
 
 
 The goal of this class is two-fold.  First, to introduce
@@ -160,7 +160,7 @@ When using late days, note that homeworks tend to get harder later in the course
 
 ### Communication
 
-* **(Preferred)**:[Piazza](https://piazza.com/class/jgwnwiy186d6pu)
+* **(Preferred)**:[Piazza](https://piazza.com/class/jqob2b49yne360)
 * **(Least Preferred)**: Email course staff.  There are too many people in the course for this to be a primary option!
 * Announcements will be on website and via emails using Piazza
 
