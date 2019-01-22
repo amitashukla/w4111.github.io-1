@@ -4,7 +4,7 @@
   Location TBD  
   3 units
 * [Syllabus](./syllabus)
-* [Piazza](piazza.com/columbia/spring2019/databasesw4111/)
+* [Piazza](https://piazza.com/columbia/spring2019/databasesw4111/)
 * [Provide Feedback](https://goo.gl/forms/QIfWsPnwu3YHtamk1)
 * [Course Github](http://github.com/w4111)
 * [Scribe Notes](https://github.com/w4111/scribenotes/wiki)    
