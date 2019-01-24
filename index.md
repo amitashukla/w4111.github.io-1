@@ -9,6 +9,10 @@ The goal of this class is two-fold. First, to introduce you to core database con
 **Advanced Assignments**  There will several [optional extra-credit assignments](https://github.com/w4111/advanced) that will dive deeper into concepts introduced in class.   Some of them will involve extending a simple Python-based database engine with additional functionality!  They are labeled `AA#` in the schedule.  There is no obligation to do these, but they are available if you want to do then in addition to, or in lieu of the normal assignments.
 
 
+#### Announcments
+
+* [Project 1 Part 1](https://github.com/w4111/project1) released
+
 #### Schedule
 
 <table class="table table-striped schedule">
