@@ -12,6 +12,7 @@ The goal of this class is two-fold. First, to introduce you to core database con
 #### Announcments
 
 * [Project 1 Part 1](https://github.com/w4111/project1) released
+* [HW0](https://github.com/w4111/hw0) released.  Due Friday 1/25 10AM EST sharp.  Otherwise you will receive a 0 in the class.
 
 #### Schedule
 
